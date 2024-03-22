@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yogesh</h1>
 <h3 align="center">A passionate Data Alchemist. (Data Analyst + BI Engineer + Data Engineer + Data Scientist + ML Engineer)</h3>
 
+<img align='right' alt='visualisation' width = '300' href='![image](https://github.com/yograi343/yograi343/assets/63515909/0f028873-bde4-4705-b0fe-e5dbbc33a6de)
+'>
 
 <p align="left"> <a href="https://twitter.com/yograi343" target="blank"><img src="https://img.shields.io/twitter/follow/yograi343?logo=twitter&style=for-the-badge" alt="yograi343" /></a> </p>
 
