@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yogesh</h1>
 <h3 align="center">A passionate Data Alchemist. (Data Analyst + BI Engineer + Data Engineer + Data Scientist + ML Engineer)</h3>
 
-<img align='right' alt='coding' width = '300' href='https://sithcomputers.com/wp-content/uploads/2023/03/Data-Science.gif'>
+<img align="right" alt="coding" width = '300' href='https://imarticus.org/blog/wp-content/uploads/2017/10/scopet.gif'>
 
 <p align="left"> <a href="https://twitter.com/yograi343" target="blank"><img src="https://img.shields.io/twitter/follow/yograi343?logo=twitter&style=for-the-badge" alt="yograi343" /></a> </p>
 
