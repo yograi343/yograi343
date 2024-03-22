@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yogesh</h1>
 <h3 align="center">A passionate Data Alchemist. (Data Analyst + BI Engineer + Data Engineer + Data Scientist + ML Engineer)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yograi343&label=Profile%20views&color=0e75b6&style=flat" alt="yograi343" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yograi343" alt="yograi343" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/yograi343" target="blank"><img src="https://img.shields.io/twitter/follow/yograi343?logo=twitter&style=for-the-badge" alt="yograi343" /></a> </p>
 
